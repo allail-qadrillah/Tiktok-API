@@ -10,7 +10,6 @@ HEADERS = {
     'accept': '*/*',
     'accept-language': 'en-US,en;q=0.9,id;q=0.8',
     'content-type': 'application/x-www-form-urlencoded; charset=UTF-8',
-    # 'cookie': '__cflb=02DiuEcwseaiqqyPC5reXswsgyrfhBQenbLiwKjxSgAZR; _ga=GA1.2.2052627223.1674450253; _gid=GA1.2.1994519208.1674450253; _gat_UA-3524196-6=1',
     'dnt': '1',
     'hx-current-url': 'https://ssstik.io/en',
     'hx-request': 'true',
