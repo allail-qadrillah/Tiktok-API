@@ -14,7 +14,7 @@ def main():
                "Without watermark [2]" : "https:...",
                "Without watermark [3]" : "https:...",
                "Without watermark [4]" : "https:...",
-               "Dwonload MP3" : "https:..."
+               "Download MP3" : "https:..."
               }
             ]
         }}
